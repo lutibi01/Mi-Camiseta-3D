@@ -1,0 +1,1 @@
+mi-camiseta-3d/ │ ├── package.json ├── vercel.json ├── public/ │ ├── index.html │ └── camiseta.glb (opcional: tu modelo 3D, si no lo ponés usa esfera) └── src/ ├── index.js ├── App.jsx ├── Camiseta.jsx └── styles.css
